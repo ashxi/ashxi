@@ -1,11 +1,12 @@
-### Hey! I'm Daniel, aka [chxcolate](https://www.github.com/chxcolate) 👋
+# Hey! I'm Daniel, aka [chxcolate](https://www.github.com/chxcolate) 👋
 
-## I'm just a casual boy wanting to become a developer.
+## I'm just a casual guy wanting to become a developer.
+
 - 🖤 I'm currently working on a [screeps](https://screeps.com) project!
-- 🌱 I'm also currently learning Javascript.
+- 🌱 I'm also currently learning JavaScript.
 - ✨ Fun Fact: I love chocolate.
 
-#### Website: [draxal][website]
+### Personal Website: [draxal][website]
 
 [website]: http://draxal.com
 
