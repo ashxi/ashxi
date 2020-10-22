@@ -2,11 +2,11 @@
 
 ## I'm just a casual guy wanting to become a developer.
 
-- 🖤 I'm currently working on a [screeps](https://screeps.com) project!
-- 🌱 I'm also currently learning JavaScript.
+- 🖤 I'm currently working on a **_[screeps](https://screeps.com)_** project!
+- 🌱 I'm also currently learning ***JavaScript***.
 - ✨ Fun Fact: I love chocolate.
 
-### Personal Website: [draxal][website]
+### *Personal Website*: **[draxal][website]**
 
 [website]: http://draxal.com
 
