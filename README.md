@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey! I'm Daniel, aka [chxcolate](https://www.github.com/chxcolate) 👋
+
+## I'm just a casual boy wanting to become a developer.
+- 🖤 I'm currently working on a [screeps](https://screeps.com) project!
+- 🌱 I'm also currently learning Javascript.
+- ✨ Fun Fact: I love chocolate.
+
+#### Website: (draxal)[website]
+
+[website]: http://draxal.com
 
 <!--
 **chxcolate/chxcolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
