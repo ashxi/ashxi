@@ -5,7 +5,7 @@
 - 🌱 I'm also currently learning Javascript.
 - ✨ Fun Fact: I love chocolate.
 
-#### Website: (draxal)[website]
+#### Website: [draxal][website]
 
 [website]: http://draxal.com
 
