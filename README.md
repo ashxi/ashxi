@@ -1,26 +1,9 @@
-# Hey! I'm Daniel, aka [chxcolate](https://www.github.com/chxcolate) 👋
+**Hey! 👋** I'm a random kid who loves to code. ✨
 
-## I'm just a casual guy wanting to become a developer.
+-----
 
-- 🖤 I'm currently working on a **_[screeps](https://screeps.com)_** project!
-- 🌱 I'm also currently learning ***JavaScript***.
-- ✨ Fun Fact: I love chocolate.
+- **Founder of [Ayano](https://github.com/chxcolate/ayano/)** 🚀 - a discord bot, trying to do her best.  She is able to play music, moderate, implement Private Voice Channels, and more!
 
-### *Personal Website*: **[draxal][website]**
+- **Developer of [thre.fo](https://github.com/WilWa/threfo)** 💬 - a social platform, using realtime forum capabilities to chat with people.
 
-[website]: http://draxal.com
-
-<!--
-**chxcolate/chxcolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![chxcolate's github stats](https://github-readme-stats.vercel.app/api?username=chxcolate)](https://github.com/anuraghazra/github-readme-stats)
