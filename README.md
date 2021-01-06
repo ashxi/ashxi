@@ -2,7 +2,7 @@
 
 -----
 
-- **Founder of [Ayano](https://github.com/chxcolate/ayano/)** 🚀 - a discord bot, trying to do her best.  She is able to play music, moderate, implement Private Voice Channels, and more!
+- **Founder of [Ayona](https://github.com/chxcolate/ayona/)** 🚀 - a discord bot, trying to do her best.  She is able to play music, moderate, implement Private Voice Channels, and more!
 
 - **Developer of [thre.fo](https://github.com/WilWa/threfo)** 💬 - a social platform, using realtime forum capabilities to chat with people.
 
