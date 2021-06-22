@@ -1,4 +1,4 @@
-**Hey! 👋** I'm a vampire, learning code. ✨
+**Hey! 👋** I'm a minor, learning code. ✨
 
 -----
 
