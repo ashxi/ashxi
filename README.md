@@ -1,4 +1,5 @@
 **Hey! 👋** I'm a minor, learning code. ✨
+
 **Pronouns:** [she/they](https://pronoun.is/she/:or/they)
 
 -----
