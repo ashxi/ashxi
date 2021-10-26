@@ -21,7 +21,7 @@ I'm a minor learning how to code.
 
 -----
 
-Statistics:
+#### Statistics:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
