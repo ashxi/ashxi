@@ -19,5 +19,9 @@ I'm a minor learning how to code.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualout&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+-----
+
+Statistics:
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
