@@ -24,4 +24,36 @@ I'm a minor learning how to code.
 #### Statistics:
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 67 Contributions in the Year 2021
+ > 
+> 📦 56.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Indiana/Indianapolis
+
+💬 Programming Languages: 
+YAML                     4 mins              █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+virtualout               4 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  4 mins              █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
