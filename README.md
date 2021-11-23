@@ -30,7 +30,7 @@ I'm a minor learning how to code.
 
 > 🏆 82 Contributions in the Year 2021
  > 
-> 📦 58.3 kB Used in GitHub's Storage 
+> 📦 58.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +44,16 @@ I'm a minor learning how to code.
 ⌚︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-JavaScript               22 mins             ███████████████████░░░░░░   76.06% 
-JSON                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.94%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project-kilo             22 mins             ███████████████████░░░░░░   76.06% 
-Unknown Project          7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.94%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
