@@ -30,7 +30,7 @@ I'm a minor learning how to code.
 
 > 🏆 82 Contributions in the Year 2021
  > 
-> 📦 58.5 kB Used in GitHub's Storage 
+> 📦 58.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,5 +55,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
