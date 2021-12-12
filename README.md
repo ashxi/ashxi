@@ -28,13 +28,13 @@ I'm a minor learning how to code.
 
 **🐱 My GitHub Data** 
 
-> 🏆 103 Contributions in the Year 2021
+> 🏆 108 Contributions in the Year 2021
  > 
 > 📦 58.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -55,5 +55,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/12/2021
+ Last Updated on 12/12/2021
 <!--END_SECTION:waka-->
