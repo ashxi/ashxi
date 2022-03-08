@@ -1,5 +1,5 @@
-### virtualout
-> /ˈvərCH(o͞o)əl aʊt/
+### ashxi
+> /æʃeksɛ/
 > 
 I'm a minor learning how to code.
 
@@ -14,9 +14,11 @@ I'm a minor learning how to code.
 
 **Pronouns:** [she/they](https://pronoun.is/she/:or/they)
 
+<!--
 [![virtualout's github stats](https://github-readme-stats.vercel.app/api?username=virtualout&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virtualout&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualout&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 -----
