@@ -1,24 +1,17 @@
-### ashxi
-> /æʃeksɛ/
-> 
-I'm a minor learning how to code.
+### *ashley*
+> pronounced /ashlee/
+ 
+***[she/they](https://pronoun.is/she/:or/they)*** pronouns
 
-**Loves**: ☕ & 🍫 & 🎮
+you can also call me `ashe`
+ 
+[please spell my name lowercase](https://iliana.fyi/lowercase/) (cause i like lowercase, and my name can now never get confused)
 
------
-<p align="left">
-<a href="https://twitter.com/ashxdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitch.tv/sleepilylive" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCVVgwKvv9UAbgsIWvYUSnkQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+currently working on a commit convention called `HRcc`.
 
-**Pronouns:** [she/they](https://pronoun.is/she/:or/they)
+<sub>
+  current avatar by [@bulkybun](https://twitter.com/bulkybun) ([picrew](https://picrew.me/image_maker/428609))
+</sub>
 
-<!--
-[![virtualout's github stats](https://github-readme-stats.vercel.app/api?username=virtualout&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virtualout&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualout&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
--->
------
+---
+#### create *harmless* chaos.
