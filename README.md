@@ -9,9 +9,7 @@ you can also call me `ashe`
 
 currently working on a commit convention called `HRcc`.
 
-<sub>
-  current avatar by [@bulkybun](https://twitter.com/bulkybun) ([picrew](https://picrew.me/image_maker/428609))
-</sub>
+###### current avatar by [@bulkybun](https://twitter.com/bulkybun) ([picrew](https://picrew.me/image_maker/428609))
 
 ---
 #### create *harmless* chaos.
