@@ -5,9 +5,7 @@
 
 you can also call me `ashe`
  
-[please spell my name lowercase](https://iliana.fyi/lowercase/) (cause i like lowercase, and my name can now never get confused)
-
-currently working on a commit convention called `HRcc`.
+[please spell my name lowercase](https://iliana.fyi/lowercase/)
 
 ###### current avatar created from  [this picrew](https://picrew.me/image_maker/1272810/complete?cd=ubB8dlgFgq)
 
