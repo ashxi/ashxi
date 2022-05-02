@@ -1,5 +1,5 @@
-### *ashley*
-> pronounced /ashlee/
+### *ashley noire*
+> pronounced /ashlee nwär/
  
 ***[she/they](https://pronoun.is/she/:or/they)*** pronouns
 
