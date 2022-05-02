@@ -1,5 +1,8 @@
-### *ashley noire*
+### ***ashley noire***
 > pronounced /ashlee nwär/
+
+#### *noirelapine*
+> pronounced /nwär lap-ein/
  
 ***[she/they](https://pronoun.is/she/:or/they)*** pronouns
 
