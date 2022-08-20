@@ -1,16 +1,14 @@
-### ***ashley noire***
-> pronounced /ashlee nwär/
+### ***Mᴀʀɪ***
+> pronounced /mɛri/
 
-#### *noirelapine*
-> pronounced /nwär lap-ein/
+#### *starbunn*
+> pronounced /stɑr bʌn/
  
-***[she/they](https://pronoun.is/she/:or/they)*** pronouns
+***[she/they](https://pronoun.is/she/:or/they)***
+ 
+###### you can also call me *bunn*.
 
-you can also call me `ashe`
- 
 [please spell my name lowercase](https://iliana.fyi/lowercase/)
-
-###### current avatar created from  [this picrew](https://picrew.me/image_maker/1272810/complete?cd=ubB8dlgFgq)
 
 ---
 #### create *harmless* chaos.
