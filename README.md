@@ -1,8 +1,8 @@
 ### ***Mari***
 > pronounced /mɛri/
 
-#### *starbunn*
-> pronounced /stɑr bʌn/
+#### *kyoline*
+> pronounced /ki oʊ lin/
  
 ***[she/they](https://pronoun.is/she/:or/they)***
 
