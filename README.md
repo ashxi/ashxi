@@ -1,8 +1,8 @@
-### ***Dare***
-> pronounced /der/
+### ***Ame***
+> pronounced */aim/*
 
-#### *kyoline*
-> pronounced /ki oʊ line/
+#### *nuruame*
+> pronounced */nir oo aim/*
  
 ***[she/they](https://pronoun.is/she/:or/they)***
 
