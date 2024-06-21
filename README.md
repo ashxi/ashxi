@@ -4,7 +4,7 @@
 #### *devawaves*
 > pronounced */dev-uh waves/*
  
-***[she/they](https://pronoun.is/she/:or/they)***
+***[she/her](https://pronoun.is/she-her-examples/)***
 
 ---
 #### don't forget to have fun!~
