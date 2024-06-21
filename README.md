@@ -1,10 +1,10 @@
-### ***Ame***
-> pronounced */aim/*
+### ***Deva***
+> pronounced */dev-uh/*
 
-#### *nuruame*
-> pronounced */nir oo aim/*
+#### *devawaves*
+> pronounced */dev-uh waves/*
  
 ***[she/they](https://pronoun.is/she/:or/they)***
 
 ---
-#### create *harmless* chaos.
+#### don't forget to have fun!~
