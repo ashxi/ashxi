@@ -1,5 +1,5 @@
-### ***Deva***
-> pronounced */dev-uh/*
+### ***Dev***
+> pronounced */dev/*
 
 #### *devawaves*
 > pronounced */dev-uh waves/*
