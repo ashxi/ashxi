@@ -1,8 +1,8 @@
-### ***Dev***
-> pronounced */dev/*
+### ***Valerie***
+> pronounced */valor ee/*
 
-#### *devawaves*
-> pronounced */dev-uh waves/*
+#### *valnyx*
+> pronounced */val-nyx/*
  
 ***[she/her](https://pronoun.is/she-her-examples/)***
 
